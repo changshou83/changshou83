@@ -34,8 +34,8 @@ class Tools extends SoftwareDeveloper {
 <details>
   <summary><strong>Github Stats</strong></summary>
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changshou83&layout=compact&theme=synthwave&hide_border=true" height="195"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=changshou83&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true"/></a>
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=changshou83&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" width="53%"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changshou83&layout=compact&theme=synthwave&hide_border=true" width="45%"/></a>
   </div>
 </details>
 
