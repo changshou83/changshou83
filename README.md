@@ -42,12 +42,13 @@ class Tools extends SoftwareDeveloper {
 <details>
   <summary><strong>Contribution Graph</strong></summary>
   <p align="left">
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=changshou83&theme=xcode" /></p>
+    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=changshou83&theme=xcode" />
+  </p>
 </details>
 
 <details>
   <summary><strong>Leetcode Stats</strong></summary>
-  ![Changshou83's LeetCode Stats](https://leetcode.card.workers.dev/changshou83?theme=nord)
+  <img src="https://leetcode.card.workers.dev/changshou83?theme=nord" />
 </details>
 
 <details>
