@@ -52,11 +52,8 @@ class Tools extends SoftwareDeveloper {
 
 <details>
   <summary><strong>WakaTime Stats</strong></summary>
-  <!-- waka-box start -->
-  <!-- waka-box end -->
+  ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=changshou83&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 </details>
-<!-- 暂时不太想弄，gist的api是12月份到期
--->
 <!--
 **changshou83/changshou83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
