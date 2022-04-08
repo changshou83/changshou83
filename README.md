@@ -43,11 +43,11 @@ class Tools extends SoftwareDeveloper {
   <p align="left">
     <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=changshou83&theme=xcode" />
   </p>
-  <img width="90%" src="https://www.codewars.com/users/changshou83/badges/small" />
 </details>
 
 <details>
-  <summary><strong>Leetcode Stats</strong></summary>
+  <summary><strong>Leetcode & Codewars Stats</strong></summary>
+  <img width="90%" src="https://www.codewars.com/users/changshou83/badges/small" />
   <img src="https://leetcode.card.workers.dev/changshou83?theme=nord" />
 </details>
 
