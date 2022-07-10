@@ -18,12 +18,11 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript'];
-  databases  = ['MongoDB'];
   frameworks = ['Vue', 'Vite', 'Element'];
 }
 
 class Tools extends SoftwareDeveloper {
-  IDE    = ['Visual Studio Code', 'WebStorm'];
+  IDE    = ['Visual Studio Code', 'IDEA'];
   Notes  = ['Obsidian'];
 }
 ```
