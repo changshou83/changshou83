@@ -45,11 +45,8 @@ class Tools extends SoftwareDeveloper {
 </details>
 
 <details>
-  <summary><strong>Leetcode & Codewars Stats</strong></summary>
+  <summary><strong>Codewars Stats</strong></summary>
   <img width="90%" src="https://www.codewars.com/users/changshou83/badges/small" />
-  
-  ![LeetCode stats](https://leetcode.card.workers.dev/changshou83?theme=nord&font=baloo&extension=null&site=cn)
-  
 </details>
 
 <details>
