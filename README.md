@@ -11,9 +11,8 @@ I'm Changshou83, nice to meet you.
 import SoftwareDeveloper from 'changshou83';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Xie Wei';
+  name     = 'changshou83';
   title    = 'Front-End Engineer';
-  location = 'Shenyang, China';
 }
 
 class Skills extends SoftwareDeveloper {
